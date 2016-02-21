@@ -7,6 +7,7 @@ var rl = readline.createInterface({
   input:  process.stdin,
   output: process.stdout
 });
+
 rl.question('So where\'s that folder we\'re converting?', function( folder ) {
   fs.readdir( folder, function( err, files ) {
     console.log( files );

@@ -1,0 +1,23 @@
+{
+  "name": "xml-processor-win",
+  "version": "1.1.0",
+  "description": "XML processor for converting mathml pages",
+  "main": "matProc.js",
+  "dependencies": {
+    "mathjax-node": "^0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmcduffie32/XMLProcessorWin.git"
+  },
+  "author": "Jon McDuffie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmcduffie32/XMLProcessorWin/issues"
+  },
+  "homepage": "https://github.com/jmcduffie32/XMLProcessorWin#readme"
+}
